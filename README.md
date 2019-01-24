@@ -32,5 +32,5 @@ https://wiki.openstack.org/wiki/GitCommitMessages
 
 ## Test checkboxes
 
-- [ ]
-- [ ]
+- [ ] 1
+- [ ] 2
