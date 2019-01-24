@@ -29,3 +29,8 @@ Commit message good practice
 
 http://www.slideshare.net/TarinGamberini/commit-messages-goodpractices
 https://wiki.openstack.org/wiki/GitCommitMessages
+
+## Test checkboxes
+
+- [ ]
+- [ ]
