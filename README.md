@@ -34,3 +34,12 @@ https://wiki.openstack.org/wiki/GitCommitMessages
 
 - [ ] 1
 - [ ] 2
+
+
+## Test collapse
+
+<details>
+  <summary>Copyright 1999-2018.</summary>
+  <p> - by Refsnes Data. All Rights Reserved.</p>
+  <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
+</details>
